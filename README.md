@@ -107,7 +107,5 @@ Time_Series_Forecasting.ipynb  : Python notebook with full workflow
 
 ### **Option 2: View in GitHub**
 
-* Click the notebook file to preview code and charts directly.
-
----
+* Click the file to preview code and charts directly.
 
