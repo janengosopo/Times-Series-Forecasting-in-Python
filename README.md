@@ -15,7 +15,6 @@ The project answers:
 
 * What is the expected sales demand for key bakery products in the upcoming week?
 * Which forecasting method provides the most accurate predictions?
-* How do baseline models compare to automated ARIMA models?
 * How can forecasting insights improve production and inventory decisions?
 
 ---
